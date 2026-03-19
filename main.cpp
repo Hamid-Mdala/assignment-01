@@ -5,7 +5,7 @@ int g_num1 = 10;
 int adder(int num1, int num2) {
     int temp=50;          //the default value
     temp = num1 + num2;   //will be replaced with the temp when the parameters add by each other
-    //std::cout << temp << std::endl;
+    //std::cout << temp << std::endl; this will display 8 as the output
     return temp;
 }
 
