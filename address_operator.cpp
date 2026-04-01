@@ -3,7 +3,7 @@
 int main() {
     char c = 'a';
     printf("c: %c\n", c);  // Output: c: a
-    printf("Address of (&c): 0x%0x", c);  // Output the address of variable c in hexadecimal format
+    printf("Address of (&c): %p\n", (void*)&c);   //this actually prints the address of the variable c in memory, which is a hexadecimal value that represents the location of c in memory
     printf("\n");
     return 0;
 }
