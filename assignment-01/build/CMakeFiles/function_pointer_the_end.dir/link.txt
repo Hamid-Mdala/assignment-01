@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/function_pointer_the_end.dir/link.d CMakeFiles/function_pointer_the_end.dir/function_pointer_the_end.cpp.o -o bin/function_pointer_the_end

@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/call_function_using_addresses_as_the_parameter.dir/link.d CMakeFiles/call_function_using_addresses_as_the_parameter.dir/call_function_using_addresses_as_the_parameter.cpp.o -o bin/call_function_using_addresses_as_the_parameter

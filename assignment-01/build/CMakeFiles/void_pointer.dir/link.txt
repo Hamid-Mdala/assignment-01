@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/void_pointer.dir/link.d CMakeFiles/void_pointer.dir/void_pointer.cpp.o -o bin/void_pointer

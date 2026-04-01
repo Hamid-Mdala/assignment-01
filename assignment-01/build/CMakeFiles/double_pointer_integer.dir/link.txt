@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/double_pointer_integer.dir/link.d CMakeFiles/double_pointer_integer.dir/double_pointer_integer.cpp.o -o bin/double_pointer_integer

@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/pointer_and_array.dir/link.d CMakeFiles/pointer_and_array.dir/pointer_and_array.cpp.o -o bin/pointer_and_array

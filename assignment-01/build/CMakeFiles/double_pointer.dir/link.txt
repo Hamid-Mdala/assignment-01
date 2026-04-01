@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/double_pointer.dir/link.d CMakeFiles/double_pointer.dir/double_pointer.cpp.o -o bin/double_pointer

@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/function_call_using_pointer2.dir/link.d CMakeFiles/function_call_using_pointer2.dir/function_call_using_pointer2.cpp.o -o bin/function_call_using_pointer2
